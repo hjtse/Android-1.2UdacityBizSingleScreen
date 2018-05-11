@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="font_size">16sp</dimen>
+    <dimen name="padding">4dp</dimen>
+    <color name="black">@android:color/black</color>
+    <string name="app_name">Hello Android</string>
+    <string name="udacity">Udacity</string>
+    <string name="address">2465 Latham St Mountain View, CA 94043"</string>
+    <string name="url">https://www.udacity.com</string>
+    <string name="phone">650-555-5555"</string>
+</resources>
